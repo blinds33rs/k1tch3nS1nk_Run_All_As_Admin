@@ -1,0 +1,4 @@
+Script Optimizer for use with Task Host Processing asset on network. SolidWorks or AutoCAD specific. Orients device for maximum horsepower with no gfx processing.
+Run As Admin.
+
+DO NOT USE FOR LOCAL USER PRODUCTION. TASK HOST ONLY.

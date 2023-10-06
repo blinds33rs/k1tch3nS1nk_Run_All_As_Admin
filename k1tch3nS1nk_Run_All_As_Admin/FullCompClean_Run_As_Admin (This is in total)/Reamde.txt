@@ -1,0 +1,18 @@
+Run as Admin. Adjust to Taste.
+Clears, Resets and does the following:
+
+:: Terminate Microsoft Office processes (Estimated time: 5 seconds)
+:: Terminate common web browsers and text editors (Estimated time: 5 seconds)
+:: Generate a timestamp for backup files (Estimated time: 1 second)
+:: Close Non-Critical Service Operations (Estimated time: 2 minutes)
+:: Reset TCP/IP stack (Estimated time: 5 seconds)
+:: Release and renew DHCP lease (Estimated time: 10 seconds)
+:: Flush DNS cache (Estimated time: 5 seconds)
+:: Reset Winsock (Estimated time: 5 seconds)
+:: Disable and re-enable all network adapters (Estimated time: 9 seconds)
+:: System health checks (Estimated time: 5 minutes)
+:: Disk operations (Estimated time: 10 minutes)
+:: All Browser cleanup (Estimated time: 2 minutes)
+:: Teams Cache cleanup (Estimated time: 2 minutes)
+:: Clearing MS Office caches (Estimated time: 2 minutes)
+:: Force Reboot
